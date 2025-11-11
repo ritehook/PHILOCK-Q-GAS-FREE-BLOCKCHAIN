@@ -1,0 +1,16 @@
+{
+  "capsule_id": "string",
+  "sender": "string",
+  "payload": "string",
+  "capsule_fee": "float",
+  "entropy_anchor": "string",
+  "lineage": "string",
+  "signature": "string",
+  "license_id": "string",
+  "symbolic_overlay": {
+    "archetype": "string",
+    "overlay_hash": "string"
+  },
+  "ots_anchor": "string",
+  "anchored_at": "string"
+}
